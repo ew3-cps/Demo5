@@ -1,3 +1,3 @@
 # Demo5
-Introduction to GitHub
+Introduction to Git and GitHub
 Lane Tech
